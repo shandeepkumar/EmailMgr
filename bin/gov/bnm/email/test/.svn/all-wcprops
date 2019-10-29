@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test
+END
+SendAttachmentInEmail$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendAttachmentInEmail$1.class
+END
+SendMailTLS$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendMailTLS$1.class
+END
+SendAttachmentInEmail.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendAttachmentInEmail.class
+END
+SendMailTLS.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendMailTLS.class
+END
+SendEmailUsingGMailSMTP$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendEmailUsingGMailSMTP$1.class
+END
+TestEmailManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/TestEmailManager.class
+END
+SendEmailUsingGMailSMTP.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/bin/gov/bnm/email/test/SendEmailUsingGMailSMTP.class
+END

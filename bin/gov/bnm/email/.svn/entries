@@ -1,0 +1,49 @@
+10
+
+dir
+53
+https://ksadev.kgenapp:81/svn/RegulatoryHandbook/branches/EmailMgr/bin/gov/bnm/email
+https://ksadev.kgenapp:81/svn/RegulatoryHandbook
+
+
+
+2017-05-30T04:35:18.003806Z
+40
+rama
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e803787e-6818-5f4b-b703-dfc9fe35e977
+
+Util
+dir
+
+adapter
+dir
+
+bean
+dir
+
+engine
+dir
+
+property
+dir
+
+smtp
+dir
+
+test
+dir
+

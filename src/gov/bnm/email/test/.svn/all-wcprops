@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/src/gov/bnm/email/test
+END
+SendAttachmentInEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/src/gov/bnm/email/test/SendAttachmentInEmail.java
+END
+SendMailTLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/src/gov/bnm/email/test/SendMailTLS.java
+END
+SendEmailUsingGMailSMTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/src/gov/bnm/email/test/SendEmailUsingGMailSMTP.java
+END
+TestEmailManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/RegulatoryHandbook/!svn/ver/40/branches/EmailMgr/src/gov/bnm/email/test/TestEmailManager.java
+END
